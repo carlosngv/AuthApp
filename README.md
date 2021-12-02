@@ -1,2 +1,11 @@
 # AuthApp
-Aplicación de autenticación basada en tokens.
+---
+Aplicación de autenticación pasiva basada en tokens. 
+
+Tecnologías utilizadas:
+
+* Node.js
+* Expressjs
+* JWT
+* MongoDB
+* Angular
